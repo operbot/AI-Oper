@@ -1,1 +1,1 @@
-import './assets/CnTLC66B.js';
+import './assets/DLInjITq.js';

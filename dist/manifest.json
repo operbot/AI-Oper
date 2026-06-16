@@ -24,7 +24,7 @@
   "content_scripts": [
     {
       "js": [
-        "assets/index.ts-loader-BU_SLUrQ.js"
+        "assets/index.ts-loader-CQC0TVO0.js"
       ],
       "matches": [
         "*://*.chaturbate.com/*",
@@ -35,7 +35,7 @@
     },
     {
       "js": [
-        "assets/sidebar-entry.tsx-loader-DmxDX2r1.js"
+        "assets/sidebar-entry.tsx-loader-CJlEm3-w.js"
       ],
       "matches": [
         "*://*.chaturbate.com/*"
@@ -70,8 +70,8 @@
       "resources": [
         "assets/DsCrkyf8.js",
         "assets/Dx8JpQj8.js",
-        "assets/Baaa1hNm.js",
-        "assets/9pXXSf5H.js"
+        "assets/BaX2ZOEX.js",
+        "assets/CBuGeN5x.js"
       ],
       "use_dynamic_url": false
     },
@@ -80,11 +80,11 @@
         "*://*.chaturbate.com/*"
       ],
       "resources": [
-        "assets/D19IHtkc.js",
-        "assets/Baaa1hNm.js",
+        "assets/CTHMuLgz.js",
+        "assets/BaX2ZOEX.js",
         "assets/DsCrkyf8.js",
         "assets/Dx8JpQj8.js",
-        "assets/BtsWrRCW.js"
+        "assets/BNT_KgPT.js"
       ],
       "use_dynamic_url": false
     }
